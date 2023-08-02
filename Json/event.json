@@ -1,0 +1,46 @@
+{
+    "evtList":[
+        {
+            "id"    :1,
+            "Day"   :"상시",
+            "img"   :"../../img/eventBanner1.png",
+            "info"  :"[현대백화점카드] 모바일카드 발급시H.Point 1만P 증정!",
+            "date"  :"2023.01.01 ~ 2023.12.31"
+        },
+        {
+            "id"    :2,
+            "Day"   :"D-6",
+            "img"   :"../../img/eventBanner2.png",
+            "info"  :"[H.Point] 소리로 채우는 독서감성, 오디오북",
+            "date"  :"2023.05.17 ~ 2023.07.31"
+        },
+        {
+            "id"    :3,
+            "Day"   :"D-37",
+            "img"   :"../../img/eventBanner3.png",
+            "info"  :"마리오폰테의 트웰브 H.Point 할인",
+            "date"  :"2023.07.04 ~ 2023.08.31"
+        },
+        {
+            "id"    :4,
+            "Day"   :"D-19",
+            "img"   :"../../img/eventBanner4.png",
+            "info"  :"디자인 전자영수증 프로젝트 Vol.1 디즈니",
+            "date"  :"2023.07.07 ~ 2023.08.13"
+        },
+        {
+            "id"    :5,
+            "Day"   :"D-6",
+            "img"   :"../../img/eventBanner5.png",
+            "info"  :"[H.Point] 7월 친구초대 이벤트",
+            "date"  :"2023.07.14 ~ 2023.07.31"
+        },
+        {
+            "id"    :6,
+            "Day"   :"D-6",
+            "img"   :"../../img/eventBanner6.png",
+            "info"  :"현대아울렛 H.Point 우리카드 7월 특별혜택",
+            "date"  :"2023.07.11 ~ 2023.07.31"
+        }
+    ]
+}
