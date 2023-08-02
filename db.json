@@ -14,7 +14,7 @@
             "img"   :"../../img/eventBanner2.png",
             "info"  :"[H.Point] 소리로 채우는 독서감성, 오디오북",
             "date"  :"2023.05.17 ~ 2023.07.31",
-            "view"  :["../../img/content/evt2/상세.png"]
+            "view"  :["../../img/content/evt2/상세1.png","../../img/content/evt2/상세2.png","../../img/content/evt2/상세3.png","../../img/content/evt2/상세4.png","../../img/content/evt2/상세5.png"]
         },
         {
             "id"    :3,
@@ -38,7 +38,7 @@
             "img"   :"../../img/eventBanner5.png",
             "info"  :"[H.Point] 7월 친구초대 이벤트",
             "date"  :"2023.07.14 ~ 2023.07.31",
-            "view"  :["../../img/content/evt5/상세1.png","../../img/content/evt5/상세2.png","../../img/content/evt5/상세3.png","../../img/content/evt5/상세4.png","../../img/content/evt5/상세5.png"]
+            "view"  :["../../img/content/evt5/상세.png"]
         },
         {
             "id"    :6,
